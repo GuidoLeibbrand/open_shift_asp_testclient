@@ -1,0 +1,1 @@
+﻿docker run -d -p 5001:8080 --name hellojwt  helloworldwithheaderinformations:latest
